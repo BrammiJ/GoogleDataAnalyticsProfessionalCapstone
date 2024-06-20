@@ -1,4 +1,4 @@
-# GoogleDataAnalyticsProfessionalCapstone
+# Bike-share data analysis using R and Microsoft Power BI
 <br>Worked on this case study as part of Google Data Analytics Professional Capstone Course </br>
 <br>A little Background on this case study</br>
 <br><b>Scenario</b> </br>
@@ -9,36 +9,17 @@ your team will design a new marketing strategy to convert casual riders into ann
 must approve your recommendations, so they must be backed up with compelling data insights and professional data 
 visualizations. 
 
-<br><b>Characters and teams</b><br> 
-<br>● <b>Cyclistic</b>: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself 
-apart by also oﬀering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with 
-disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 
-8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use them to 
-commute to work each day. </br>
-<br>● <b>Lily Moreno</b>: The director of marketing and your manager. Moreno is responsible for the development of campaigns 
-and initiatives to promote the bike-share program. These may include email, social media, and other channels.  </br>
-<br>● <b>Cyclistic marketing analytics team</b>: A team of data analysts who are responsible for collecting, analyzing, and 
-reporting data that helps guide Cyclistic marketing strategy. You joined this team six months ago and have been busy 
-learning about Cyclistic’s mission and business goals — as well as how you, as a junior data analyst, can help Cyclistic 
-achieve them. </br>
-<br>● <b>Cyclistic executive team</b>: The notoriously detail-oriented executive team will decide whether to approve the 
-recommended marketing program. </br>
+The case study follows all the 6 phases of data analysis
 
+### Phase 1: Ask
+### Phase 2: Prepare
+### Phase 3: Process
+### Phase 4: Analyze
+### Phase 5: Share
+### Phase 6: Act
 
-<br><b>About the company </b></br>
-<br>In 2016,  Cyclistic launched a successful bike-share oﬀering. Since then, the program has grown to a ﬂeet of 5,824 bicycles that 
-are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and 
-returned to any other station in the system anytime. </br>
-<br>Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments. 
-One approach that helped make these things possible was the ﬂexibility of its pricing plans: single-ride passes, full-day  passes, 
-and  annual  memberships.  Customers  who  purchase  single-ride or  full-day  passes  are  referred  to  as  casual  riders. Customers 
-who  purchase  annual  memberships  are  Cyclistic  members. </br>
-<br>Cyclistic’s ﬁnance analysts have concluded that annual members are much more proﬁtable than casual riders. Although the 
-pricing ﬂexibility helps Cyclistic attract more customers, Moreno believes that maximizing the number of annual members will 
-be key to future growth. Rather than creating a marketing campaign that targets all-new customers, Moreno believes there is a 
-very good chance to convert casual riders into members. She notes that casual riders are already aware of the Cyclistic 
-program and have chosen Cyclistic for their mobility needs. </br>
-<br>Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to 
-do that, however, the marketing analyst team needs to better understand how annual members and casual riders diﬀer, why 
-casual riders would buy a membership, and how digital media could aﬀect their marketing tactics. Moreno and her team are 
-interested in analyzing the Cyclistic historical bike trip data to identify trends. </br>
+Refer the notebook attached for detailed analysis undertaken
+
+The analysis of the dataset is performed using R and the visualisations are created using Microsoft PowerBI
+
+![report snapshot](https://github.com/BrammiJ/GoogleDataAnalyticsProfessionalCapstone/blob/main/CyclisticRideShare-PowerBI%20snapshot.png)
